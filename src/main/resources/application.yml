@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: demo
+  datasource:
+    url: jdbc:presto://c16279d0-84e8-9078-5bb9-boog4rga3pre.co1u05ot0jqujbai8j2g.lakehouse.appdomain.cloud:31002/iceberg_data/demo_schema?SSL=true
+    username: ibmlhapikey_povsoknem@gmail.com
+    password: _wHjocmjAezHotLJdsBsvYq3iExU8R2Li6GUaurvlxN7
+    driver-class-name: io.prestosql.jdbc.PrestoDriver
